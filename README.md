@@ -3,6 +3,10 @@ Fun Battleship Game to Learn Python
 
 I will be building a CLI -> GUI based BattleShip game in Python.
 
+## Update 5/19/2018a:
+ * Started adding *tkinter* elements to the gameboard class
+ * Tested drawing grid and using hover frames
+
 ## Update 5/18/2018b:
  * Seperated the classes into seperate files
  * imported the classes directly
